@@ -25,6 +25,5 @@ To run the IOS CALCULATOR on your local machine, follow these steps:
   code . 
 ```
 
----
-# I would be happy if you would like to make some small touches since I have just started my projects. 
+--- 
 # Happy coding to everyone!
