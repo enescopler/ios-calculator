@@ -4,7 +4,7 @@
 
 It is a calculator interface for WEB created using front-end technologies and designed with Figma.
 
-## Application İmage
+## Application Image
 
 <img width="1440" alt="ios calculator" src="https://github.com/user-attachments/assets/53b893bb-5ce0-4457-9d75-e90ef7c8baa4">
 
